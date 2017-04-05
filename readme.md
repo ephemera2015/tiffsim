@@ -5,14 +5,14 @@ description
 this project is a sub project of Neutu and helps calculate similarity between tiff images using variation information
 
 installation
----------------------
-###requirements  
+---------------------  
+### requirements  
 
 libtiff  
 
 to install libtiff  see  http://www.libtiff.org/  
 
-###install  
+### install  
 
 1.git clone https://github.com/ephemera2015/tiffsim.git  
 
